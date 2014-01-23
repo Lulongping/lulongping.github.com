@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Run_ner's Blog]]></title>
+  <link href="http://lulongping.github.com/atom.xml" rel="self"/>
+  <link href="http://lulongping.github.com/"/>
+  <updated>2014-01-23T22:30:46+08:00</updated>
+  <id>http://lulongping.github.com/</id>
+  <author>
+    <name><![CDATA[Lulongping]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[2014-1-23-MyFirstBlog.markdown]]></title>
+    <link href="http://lulongping.github.com/blog/2014/01/23/2014-1-23-myfirstblog-dot-markdown/"/>
+    <updated>2014-01-23T22:07:28+08:00</updated>
+    <id>http://lulongping.github.com/blog/2014/01/23/2014-1-23-myfirstblog-dot-markdown</id>
+    <content type="html"><![CDATA[<p>A Blog On Github</p>
+]]></content>
+  </entry>
+  
+</feed>
